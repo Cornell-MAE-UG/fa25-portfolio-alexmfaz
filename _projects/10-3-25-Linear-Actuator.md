@@ -4,6 +4,7 @@ title: Linear Actuator Design
 description: Design using a linear actuator to lift a beam with a weight on one end.
 technologies: []
 image: /assets/images/LinearActuator-design_page.jpg
+
 ---
 
 
