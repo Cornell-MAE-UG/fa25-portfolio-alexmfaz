@@ -7,5 +7,4 @@ image: /assets/images/LinearActuator-design_page.jpg
 
 ---
 
-
 This is a design to lift a weight on top of a plank using a linear actuator.
